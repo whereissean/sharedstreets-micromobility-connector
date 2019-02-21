@@ -4,7 +4,7 @@ import { EncryptableData } from './crypto';
 const uuidHash = require('uuid-by-string')
 
 export enum VehicleType {
-    BICYLCE = 'bicycle',
+    BICYCLE = 'bicycle',
     SCOOTER = 'scooter'
 }
 
